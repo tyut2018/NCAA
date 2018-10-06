@@ -1,5 +1,5 @@
 # ncaa
-For simplisity, we upload a gui program for reader to reproduce the results in our manuscript, it is easily to use. The only thing you deed do is to download the sinanet and pubmed data set and place it in data file. Then you can run the code, and input the data file name, load the parameters in config file, run the ncaa in menu "method", and plot the result in menu "metric", enjoy.
+The source code compiled in C is exceed 25M, so, for simplisity, we upload a gui program for reader to reproduce the results in our manuscript, it is easily to use. The only thing you deed do is to download the sinanet and pubmed data set and place it in data file. Then you can run the code, and input the data file name, load the parameters in config file, run the ncaa in menu "method", and plot the result in menu "metric", enjoy.
 note:The information about our manuscript will be upload once it is accepted, this work is supported by our project Grant No.61762047.
 The source code has been used to apply for patent, so the complete file will be upload later.
 This is the core code which described in our manuscript, you can check its performance according to our manuscript. It is developed using C\python\matlab, all .dll files are compiled under windows 10.
